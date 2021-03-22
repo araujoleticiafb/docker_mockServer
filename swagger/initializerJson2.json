@@ -1,0 +1,12 @@
+[
+    {
+        "httpRequest": {
+            "method": "GET",
+            "path": "/v2/pet/[\\s\\S]*"
+        },
+        "httpResponse": {
+            "body": "{\"id\":3,\"category\":{\"id\":0},\"name\":\"Kyara\",\"photoUrls\":[],\"tags\":[],\"status\":\"available\"}",
+            "statusCode": 200
+        }
+    }
+]
